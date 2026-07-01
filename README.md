@@ -278,6 +278,3 @@ Potential extensions include:
 - Testing transformer-based or temporal convolutional models
 - Building a fully automated forecasting dashboard
 
-## Suggested Resume Bullet
-
-> Built an end-to-end volatility forecasting pipeline using 5-minute WRDS intraday data, comparing GARCH/HAR benchmarks against ML models across S&P 500, NASDAQ, and Russell 2000 proxies with regime-based performance analysis.
